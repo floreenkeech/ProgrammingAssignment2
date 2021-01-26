@@ -17,6 +17,8 @@ i <- NULL
              setinverse = setinverse, 
              getinverse = getinverse)
 }
+
+
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
@@ -31,4 +33,4 @@ cacheSolve <- function(x, ...) {
   i
 }
         ## Return a matrix that is the inverse of 'x'
-}
+
